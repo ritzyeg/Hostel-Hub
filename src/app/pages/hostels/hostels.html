@@ -1,0 +1,32 @@
+
+<h1 class="text-center my-3">Hostel Hub</h1>
+
+<p class="text-center">
+  Total hostels: {{ hostels.length }}
+</p>
+<div class="container my-3">
+  <input
+    type="text"
+    class="form-control"
+    placeholder="Search by name, location, or city..."
+    [(ngModel)]="searchText"
+  />
+</div>
+<div class="container">
+  <div class="row">
+
+    @for (hostel of filteredHostels; track hostel.id) {
+
+      <div class="col-md-4 mb-4">
+
+        <app-card [hostel]="hostel"></app-card>
+
+      </div>
+
+    }
+
+  </div>
+</div>
+  <!--<h1>Hostel Hub</h1>
+
+<p>Total hostels: {{ hostels.length }}</p>-->
