@@ -5,7 +5,7 @@ import { RouterLink } from '@angular/router';
   selector: 'app-card',
   imports: [RouterLink],
   templateUrl: './card.html',
-  styleUrl: './card.css',
+  styleUrl: './card.css'
 })
 export class Card {
  @Input() hostel: any;

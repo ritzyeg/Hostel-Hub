@@ -1,14 +1,11 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-
-
 import {FormsModule} from '@angular/forms';
-import { RouterLink } from '@angular/router';
 import { Navbar } from './ui/navbar/navbar';
-
+import { Footer } from "./ui/footer/footer";
 @Component({
   selector: 'app-root',
-  imports: [FormsModule,Navbar,RouterOutlet],//RouterOutlet used to be there intially
+  imports: [FormsModule, Navbar, RouterOutlet, Footer],//RouterOutlet used to be only there intially
   standalone:true,
   templateUrl: './app.html',
   styleUrl: './app.css'

@@ -11,16 +11,14 @@ import {Card} from '../../ui/card/card';
 })
 export class Hostels {
   hostels:any[]=[];
-  constructor(private Api:Api,private cdr: ChangeDetectorRef){}
+  constructor(private api:Api,private cdr: ChangeDetectorRef){}
   ngOnInit(): void {
-  console.log('ngOnInit running');
 
-  this.Api.gethostels().subscribe({
+  this.api.gethostels().subscribe({
     next: (data: any) => {
-      console.log('DATA RECEIVED:', data);
       this.hostels = data as any[];
       this.cdr.detectChanges();
-      console.log('HOSTELS LENGTH:', this.hostels.length);
+      //console.log('HOSTELS LENGTH:', this.hostels.length);
     },
     error: (err: any) => {
       console.error('API ERROR:', err);

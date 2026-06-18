@@ -1,16 +1,13 @@
 .about-hero {
-  background: linear-gradient(
-    135deg,
-    #534698,
-    #7961da
-  );
+  background: #534698;
   color: white;
-  padding: 90px 20px;
+  padding: 80px 20px;
+  text-align: center;
 }
 
 .about-hero h1 {
-  font-size: 3rem;
-  font-weight: 800;
+  font-size: 2.5rem;
+  font-weight: 700;
 }
 
 .about-hero p {
@@ -19,32 +16,28 @@
 }
 
 .mission-img {
-  border-radius: 20px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
 .section-tag {
   background: #e9e4ff;
   color: #534698;
-  padding: 8px 16px;
-  border-radius: 30px;
+  padding: 6px 14px;
+  border-radius: 20px;
   font-weight: 600;
+  font-size: 0.85rem;
 }
 
 .highlight-box {
-  background: linear-gradient(
-    135deg,
-    #534698,
-    #7961da
-  );
-
+  background: #534698;
   color: white;
-  padding: 50px;
-  border-radius: 25px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.1);
 }
 
 .highlight-box h2 {
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   font-weight: 700;
 }

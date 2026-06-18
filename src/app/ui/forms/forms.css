@@ -1,13 +1,13 @@
 .form-box {
-  background: white;
-  padding: 30px;
-  border-radius: 20px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  background: #fff;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
 }
 
 .form-control {
-  border-radius: 10px;
-  padding: 12px;
+  border-radius: 8px;
+  padding: 10px;
   border: 1px solid #ddd;
 }
 
@@ -19,16 +19,10 @@
 .btn-primary {
   background-color: #534698;
   border: none;
-  padding: 12px;
-  border-radius: 10px;
+  padding: 10px 16px;
+  border-radius: 8px;
 }
 
 .btn-primary:hover {
   background-color: #43397d;
-}
-
-.map-box {
-  border-radius: 20px;
-  overflow: hidden;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }

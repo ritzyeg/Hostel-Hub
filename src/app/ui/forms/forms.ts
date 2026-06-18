@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   templateUrl: './forms.html',
   styleUrl: './forms.css',
 })
-export class Forms {}
+export class Forms {
+  submitForm() {
+  alert('Form submitted successfully!');
+}
+}
 
