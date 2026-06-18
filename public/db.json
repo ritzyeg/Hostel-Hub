@@ -1,0 +1,104 @@
+{
+  "hostels": [
+    {
+      "id": 1,
+      "name": "The Hosteller Fort Kochi",
+      "location": "Fort Kochi",
+      "city": "Kochi",
+      "rating": 4.8,
+      "pricePerMonth": 7500,
+      "gender": "Unisex",
+      "image":"https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7F5hxjSWpqjiEYQsZ8JQHzD8D1SKYnVgG50pleD8V2VtgHcdDbKQb_H-_FZGFHq9jLq1EUTpNpLpwQZVDJ2-2x5-iY5hsSLsiJSwXQZ6w1q71F7Do-e96HCFZPHlpmcUFn7W6=s1360-w1360-h1020-rw"
+    },
+    {
+      "id": 2,
+      "name": "Zostel Kochi (Ernakulam)",
+      "location": "Kadavanthara",
+      "city": "Kochi",
+      "rating": 4.7,
+      "pricePerMonth": 7200,
+      "gender": "Unisex",
+      "image":"https://proxy.cdn.zostel.com/zostel/gallery/images/JyXN0B18T_eo0mSxUV_qFA/zostel-kochi-ernakulam-20230904075016.jpg?format=jpg"
+    },
+    {
+      "id": 3,
+      "name": "Saerah Homes Gents Hostel",
+      "location": "Palarivattom",
+      "city": "Kochi",
+      "rating": 4.2,
+      "pricePerMonth": 6000,
+      "gender": "Male",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmnOwrFc3mq8VkCzrSv2WtLN_4e4VZblXJg&s"
+    },
+    {
+      "id": 4,
+      "name": "Government Youth Hostel Kochi",
+      "location": "Kakkanad",
+      "city": "Kochi",
+      "rating": 3.8,
+      "pricePerMonth": 5000,
+      "gender": "Unisex",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQblbR3kSmqjB5Xgn8jKjkhIaJpqbPN9tTaqA&s"
+    },
+    {
+      "id": 5,
+      "name": "National Ladies Hostel",
+      "location": "Kalamassery",
+      "city": "Kochi",
+      "rating": 4.0,
+      "pricePerMonth": 5500,
+      "gender": "Female",
+      "image":"https://content.jdmagicbox.com/comp/ernakulam/p5/0484px484.x484.170913151554.n7p5/catalogue/national-ladies-hostel-changampuzha-ernakulam-hostels-1a29gvdguy.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gloriace Boys Hostel",
+      "location": "Nagampadam",
+      "city": "Kottayam",
+      "rating": 4.2,
+      "pricePerMonth": 6000,
+      "gender": "Male",
+      "image":"https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjlY15Dmmjsm3P5j9VXCNqqDow9aNkLgvgmzFz9G3Mcjn8wuOVzFXcOUVFD-ET8ysFugOyP80PvrS4wjQupyOsddiv216ytwmOOXb3N-3R-hq2j9W0W37ENo2_vFOJNCNnK40c5t9o4bR5=s1360-w1360-h1020-rw"
+    },
+    {
+      "id": 7,
+      "name": "Olive Mount Ladies Hostel",
+      "location": "Nagampadam",
+      "city": "Kottayam",
+      "rating": 4.1,
+      "pricePerMonth": 5800,
+      "gender": "Female",
+      "image":"https://content.jdmagicbox.com/comp/kottayam/s2/9999px481.x481.211201122027.a8s2/catalogue/olive-mount-ladies-hostel-kottayam-ho-kottayam-hostels-yztar4qi2w-250.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nest Ladies Hostel",
+      "location": "Nagampadam",
+      "city": "Kottayam",
+      "rating": 4.9,
+      "pricePerMonth": 8000,
+      "gender": "Female",
+      "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAH0AlAMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAFAwQGBwABAgj/xABLEAACAQMBBQQGBgYGBwkAAAABAgMABBEFBhIhMUETUWFxFCKBkcHRByMyUqGxFUJTYnLhJDOCovDxFlSSk7LCwzQ1REVzg4SFlf/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAwEQACAQIEAwcCBwEAAAAAAAAAAQIDEQQSEyExQVEUMlJhgeHwQqEVIiNxscHxBf/aAAwDAQACEQMRAD8Ar7NZg0aubGB1DKoRiTxX5Uxn02ePJRu0A7hg1iudKwzGR1ruOWSN1eORkdTlWVsEHwIpNm3WwSQR0rXaD7x99EUGE1GK7KfpANHOn9XewDddf4gOY7+BH7pPGnM1zcWsatcNG0R+xdRf1T/xfcP4eI5VGzKnXJpS11OWzYmBsK32kPFW8x8edEpNC5RTDEupujFWJVh0NNpNVb73Gh001vcJ/RQIG/1dj6mf3D+r5cvA86EXEroxVsgjmDzFNTuIasSm31FmS6kIEhitpJVVicEqMjOCDRxtNv4Tu3F5pUJxn+rZjjyMtQfR5zIt+pP/AICc/wB2rV1e1jmXdbg+MqeorPXqODRooQU7gaOwJH1muWS/+npynHv3qWWwiVsPtBKM/srSNf8ApULYNbymOTgw5eIpcSCSPAb291J1WaNGIUW1s1zv65rj45hJFQfgq10LTRiAZLrWpuP695J8JKHLISMk8RwNcibdBVv86rUZejENrpmzmN42FzMcZ+tu5G/NjXaWuzka7y6Dbk72DvkN+a0JiuuA40mLvCv3HjVas+pNGHQOel6TAPqNB01Tj9ivwApVNcSPe7PT7JMDhuow+NRVrrJx41s3G+rEdTVakubCVKHJEpbaqdDgLCPDd/nWVDXLu2RmsodbzGaHkLTgiNDz410wwOPIityH6qPP+OFdOMquOq04ztAe9jjkADKG4daFT2gAzG2PA0Ym4kDuFNJ14e2jTAaAkweM+uMUiX8aI3Q401VlHDsY+H7tNVhTuNWfhSUku+oVzvY5HqKfM/dHH7FptJHvMWI4miTSBabOLC79Ea53VD9rbyQkk4wGHOrr1nS7a/ET3cCSlEIjYjJTOM/kKothieVR90/lXoN5F7EBh+qB50jFu2VoZhVdyTIVcwtAPR7ws0Y/qrg8Svgx+Pv7y2jinjkKiNmI4cBwNFdX1O0hu1scSTzSkARRrk5PLwFbsbM2uImeRsE8HABTwwKzcrs2c7IZrFOTlYWyRxB6iuJ7a5yR2ZyPEVJJbN7aWNZcZeJXGDngaTmt95jugsSenWpzJcjyQXKDO5wGD9oVhs7ndY7q7pGR61GxAN09OQrowfVKD3VTZZHksrmRv1B5tTmHS7k4XfiHq55n5UUjhCuvlSykKfHcrPWnK2w6CQjBo06R4aSInn1+VZT178KcCsrkN17mpMLRbGxwQbssTzkcd5mzn2CkbjQrEQgNbTxt14MN2p2k0J5Sof7QrbMjcOBwOVe1yw5Hms8ypbrZWOQ71ndtjH2XjJz5Y4/hUc1jS7vT8+kQsEOMOFO71q9ZLW2cneij88YJpjc6TYyqVaBOIIPqg8KB0VyCVZ8zz3eyRoFLsFHeaZqA/rKcjvFWJr+yFvea7a2mnOtoZklZsrvLlO4dM5obN9G1xExaa4gYD9aIENQ6bQWomQ0pSZX/ABmpBfbMeir9XdTBuquAwH+POgVxBLbNiTsnHeDj8KpxYSmgSeNxN5NXoZyscKvLyTdbzA4156XjPN5P+Rq/tYuYrfSZXZwQsXFSfClYv6QsJ9QttHsPENdt9c0lghdgJ7ZvsnhwZe48OXLy6hXs7+TVRG1mYDNJuxLneXgMZyOnDrU80T0q72etI758TtChdk5q2KIx6dDvRyNxlQY3xwzwxTJUFPclOvprKyvtopXWabfRFa0ZYSVI+yRkfifxoPb7Q6ZAVkn1G3jkR+KFxnHDp7xVlNs1poeRijsZX323iG4kk9R40x2N0O1bRI3y4PbTrwwOCyuB07hR06ChLMKrV88cqIC20mkT75S+hyTkjPWu31zTSvq3IbyRj8KtttDsJV3Z4e18XY1r/R3Siu6bKLHm3zoJ4ZOV0XDFNRSZUR1mwJ4SSHA6QSH4UhLq1sZPVM2N3HG3cfCrjXZrSVYkWUeT3lj8aa6xsnYajHCsYW0MWfWgQDeB6HvpMsHt7+w1Yzf29ylbjUN6TKF8Y6jFZVlS/RnZO2TqN17FX5VlL7G/D9xvbF4vsVZGmz4x2Go7S2ncEkXH4U8injhGLTbDXYj07aB5cUISxkKoe3f/AGV+VPY7CYLvelyD+wnypsqnmJVPyCtvq2tx/wDZ9upX/dm0xlH5UhrG3W1ekmPOo2V5EwP1gtSMEAnHHHdSdtDcJu4vXH/tJ8qYbdvP+iLdZbtpR259UxqMeo3cKGnXbqKO3z0JUo2g5K/z1JHDqu0BvYb+SHSJp41YLu3ZQYbnwK0ZXWNprqDtDsq08R5SWl2rg+8CjcW0b21smN3go5jwobpe2t7Zdrbhg0KyMUBVeAJzjl3mskP+qrtNOy+dR/YJyV4/PsRjVptRbJl2a1SInnwRh+BqB6tcAuf6PNE37ynI91XjN9Id0iHATPsqndody6v57lRxlcuRnqa00cfGrKyT9f8AWKlhJwV5EWhBMr56qefCrJ1DX7i/tpbWe200Kw3W3NSAP/DVcZJllUd9LSPOva53eGSeHgK3SpqdrmONR072LQ03a3XLEEW5tXVeDI+pxsM+W5w9lPm+lXW4LiCB9K05zK+4rC8yM+JAwPOq60cXDxXMu8d3tADux5yeI/5a5ulc3Noz5G9LjBQL0PcaX3ZWG9+OZ/0Ww232vSf+WaKP/tV+VcaTthrem2otoNO0dkDu+ZNYTOWYsf1e9jVfxQAyYx+rTg22RwXgCKXqsbooshdvNoDy03Qf/wBhflXX+nW0P+obPjz1lflVdx2o3Dhadi2Xdziq15E7PEnqbca8SN602fHlq6n4U5i2w1Z8b0ehjy1FT8aglvarvDgOFGLNUSVfVH2e6kVcdKmrpDY4KMuZL02hvWXLPpQPhdKf+asoOt+kahcLWVzPx6r4P5Gfhy6kBWH1I+HQ073MRt4Chg1iwwgimaYjmIY2f8hTg6jM4YQabeOD1cLGP7xz+FdRwkApRFGYrgDoKB7buWsIAeXbN/wGn7vqMjj+j20Qx+vKXPuA+NBdrUuUsoDczRyAyNgRxFcer4k5qUYWqxZVad6UtiZyzs6queQFDWZBI5PPPfisnnMWD4UlaXOnyPIsy78jLkB2yMdcY+NYqeHzyaRtnXUIpsjmrzpcz3y+kODEgAXeIAOOIx140npMAl0g3M032ZOzVcZz7akN7b6XNolzbabbR9t2ZISMesT3nPE49tRiFpLWwFvLn6wBwD0Az09tdSmlkytWscycnnzdQZEczZ+8c+809vRie6XH3/yFDwd6bA4ZwKdXFuy3cyb78GI+0e8j4VrRiZL9j4+10bUAB6waNs/2n+dM9Xj3Lmw8bpR+db2Pso7m2mV3nDBUclLh0GGzjgD4V1rdkttd6cVkmYm8jU9pM7/maz1GtX0NVK+k/wBwgsTb48Vp3p9+tpI0Vwm9bygLKOuB1FKBFDHOBgUJ1KZVLYPGsyZsCl5d2dpC8kc2/wAcKnU+RpvFrkLqqGFhnkVYGgEgdo2kkBwgBUHr/n8K6076yffKqAhIGF4nzPWujRwkJQWZbs5dfGTjN5HsicROvAjkRwpT0nddP4RTOLKpGOgAH4UncNgjjyFcWtFbo7VKTsmdTah6+M8q1QaUSFyQrEdDisrIsNHoa9QLxKZURYimVGSu8OWf5U4lSTGFjZiRgY767tNmZRddpY3sTE8HyCAPzzRXUNHtLKCObWNWhto1OSN/cDeWSPyrsdnkzk68EuJHXtbsDtJI1jRRx33GfdUY2zMnosO8uYhKcSAHdPq9DVlWmt2DwCPZ7Q7i/T9sYhFCfOSTn7Aaif0rzatLpVg2p+gxxdswjt7UO256vMu2AfYorRSoxhx4mWtWlPg9gxa7H61dKGuI4YBnlMwZvcuaVk2JmQHfvYIx+7Dn4irDLkj1iB5UK1W7gtU3p5FTP2c828hzPsrTe3BWEZM3HcgU2z1nYqWmmmknHFZFIQDyHT8ah+syRWxkKKCz8C8gDH2d1SjabWOblvRYdwhWlxlz4KPmfKq6v9REsjGIFj+0k4n3dKS2pO63HdxW4DOJsTAnkCKJXE0T3krrIpDSsQc9N9vgaEq3rbx8zRDsULDgOLMP72KNCSZfR3JatczxXF7bWym2h9eaULxBbIGeZ40Z2p0vTp9Q0GDT7tZmuNTiidkmDnByM8KE/RdHAm0iRTRxvHNZEYdQcsCrdfANU82pstPt7/Zaa0s7eGV9cgDvHGFY8D1A8BVacb5uYaqSUcpL7DZ+2srOO1QF1RcASjJoDr+ydleOGjsEaXPEqmAPdzqcKxIwWJHiK6wpHJf9mrlCLViRqNO5VevbHek6Qht4GzBEYt2NChOOuKrXTFMe7AciTf3DgZwxOOVengkY54oddaBoV1MZ7jTLCSYtvGVoV3ye/OM0ylamLrfqFeSafBaXMDqXMLERv4k8A3hxxw5ca29nbTySWUsab8QyWUgOoPI+R41Yh0jTOx7L0WDcxgDd5eVMbjQLeVQDczrg81KjPn6ppcoQz3UFZ8TVGs8tm+BVl/Dd2dyYrG1llhxkGJhge/rWVbVlZRWNusERBA5s4G8x7zjHGspLoQvsMWKmVlpGy20U/rXOqGzjYEGOxTB/3jcR7BUn03YvS7KT0hoFmuutxcEzS5795849gFSY4RSSQqjmTwAofdavawghG7Zu5Dw99PbjHizIlKXBCN9bxRRKVXLAgZPE1XH0zHGm6ajEBu3Y7ueON3nijm0+2kNlGY55o4j+yh9aT39PwqqtodXl1qZMQGKJCSC7liT3mhU83dWwUo5Vu9y4Nb2uhsoi7SpaRHk0nrSP/CPkD51W2u7czTtINNh3C3O4nG9I3s6e3NRqZ5J5WmnkeWVvtO7ZJ9tN5R6jHwqtO+8ncp1bbRVjm5nmuJWluZXkkbmznJpsaWcE8qRIxzohZtMZ48qex3EaspIfAx0/e3q3o6B1v8jO7ZuR7xXIQVER7En2X1vSdMvLa+nuLiO4gGFURZX7JXj38zUl1rb3TdSuNAEUyn0TVYriVmiKhUGQSfLNVpuCthVRs444zUyu97hZ9rWPRcH0haEw/wC9dK8AZN38zRGDbHSpgNy9098/dugPnXmwcRxrDHGwI3EzjgSoqskvEXqR8J6fi2gtJWxG8DeK3QPwrt9YQDIj3v4ZQfhXliW3ACkpHgsAML/Kl4ouzOVyg/dbH5VWWfUvNDoemH1tMkeiTnH3WQ0kdaQnd9GuR57lecO3uE+xdXS+U7/OsGpajGfU1O+H/wAl/nVONTqWp0/CeiDqgc5VJgPFRWq89jXtYXgNVvv99/KsqstXqFnpdCyNe2xhtgRe3fayA8IUAJz5chUI1Xa3U9QylufQ4T937Z9tAhGqne4ljzY8TXVHGklu9xcq0pbLZCYQZLHLMebMcmtB2bC5O7xOM9eFKVwq4APWmCjTUR2d0KXaC9NrFLHEBjeLnic54DxwD7qZwxCQnePAdKPbHTeg6/CyIGWUbpHLHHgc1UnZBRV2HI9jNHVb6ykmeC97T6lpJASgA5YwAwPhnzoTb7AXdxcqktzCkDFsXMSGRABzJPDHHgBzJz0GaIbeTCbWEkjDRS9nuO6txbu/Ot7L7RPNe6Boa24jjtpj2kokOZTuNjhyHeeeTzpX5mroa1FOzI7+gZ9ItpbppYpra90+Z4JY94BgrKDwIBHMe+gpqb7VatNqur3LS5EUQa3jjLb2EBwRnxIyfYOgoF6JAQMxJzxwGKZFPmLk1yAwrCuevSjLafbZxuEeTGtHTYDnBce2jsACwa2HwaI/ouMj1ZHHng0j+jcSYE393+dQg1uJPUj/AIxSpcd9c6jbdhHGd/e+sXpjvpuzmqLFnem0rcvOsLGuGNQhpTwrdc5rKoh//9k="
+       },
+      {
+      "id": 9,
+      "name": "Palace Boys Hostel",
+      "location": "Vyaskara",
+      "city": "Kottayam",
+      "rating": 4.2,
+      "pricePerMonth": 6000,
+      "gender": "Male",
+      "image":"https://content3.jdmagicbox.com/comp/kottayam/y4/9999px481.x481.191112192813.x9y4/catalogue/palace-boys-hostel-vyaskara-kottayam-hotels-21iqps547o.jpg"
+    },
+    {
+      "id": 10,
+      "name": "St. Mary's Hostel for Working Ladies & Students",
+      "location": "Kanjikuzhi",
+      "city": "Kottayam",
+      "rating": 4.3,
+      "pricePerMonth": 6500,
+      "gender": "Female",
+      "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/4e2c0937764683.574c0b65ccf48.jpg"
+    }
+    ]
+}
